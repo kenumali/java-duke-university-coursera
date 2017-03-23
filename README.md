@@ -1,7 +1,7 @@
 # java-duke-university-coursera
 Codes I have created to answer all the quizzes to progress in the course, some codes are from a starter program in http://www.dukelearntoprogram.com/
 
-This is a 5-course specialisation in Coursera by Duke University
+This is a 5-course specialisation in Coursera by Duke University 
 https://www.coursera.org/specializations/java-programming
 
 # Projects in this repository includes:
